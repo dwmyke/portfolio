@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Mikel-Jon West",
+  "url": "https://mikewest.site",
+  "description": "Home site of Mikel-Jon (Mike) West, Video Editor, Writer, Director, Visual Designer, and Technician.",
+  "image": "https://raw.githubusercontent.com/dwmyke/portfolio/79f7ae844473dd56a82b3a901bf2fd42fd53fe03/images/social.jpg",
+  "demo": {
+    "title": "Demo Reel",
+    "description": "Demo Reel for Mikel-Jon West",
+    "videoUrl": "https://vimeo.com/330364561",
+    "posterImage": "https://vumbnail.com/330364561.jpg"
+  },
+  "projects": [
+      {
+        "title": "Mega Ultra Studios",
+        "description": "Mega Ultra Studios creates short and feature films, music videos, and promotional packages for independent artists and small buinesses",
+        "videoUrl": "https://www.youtube.com/watch?v=490aKBEbxEA",
+        "posterImage": "https://img.youtube.com/vi/490aKBEbxEA/hqdefault.jpg",
+        "categories": ["Video Editor", "Writer", "Director", "Visual Designer"],
+        "clients": ["Byrdman Group", "Deep Blue Scuba", "NM Burlesque Showcase", "greatFox", "Touched by Strangers", "Four Winds Belly Dance"],
+        "longDescription": "I like working for major motion picture studios and broadcast networks, but I aldo like doing my own thing. I created Mega Ultra Studios to create feaure films, short film and 48 Hour Film projects, music videos, and promotional packages for performing artists. I plan shoots, handle storyboards, write scripts, design titles and promotional material, and create packages for social media. I hire and work with poducers, cast, and crew when needed.",
+        "skills": ["Prohject Management", "Production", "Design"]
+      },
+      {
+        "title": "My Second Project",
+        "description": "This is a description of my second project.",
+        "videoUrl": "https://www.example.com/my-second-project-video.mp4",
+        "posterImage": "https://www.example.com/my-second-project-poster.jpg",
+        "categories": ["category1", "category2", "category3"],
+        "clients": ["client1", "client2"],
+        "longDescription": "This is a longer description of my second project that provides more detail about the project and its features.",
+        "skills": ["skill1", "skill2", "skill3"]
+      }
+    ]
+  }
+  
